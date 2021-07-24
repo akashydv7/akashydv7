@@ -1,5 +1,5 @@
 
-#👋 Hi, I’m AKASH
+# 👋 Hi, I’m AKASH
 
 ### I'm a student and a developer.
 ##### I mostly code in __Python__. I also know __C++__.
